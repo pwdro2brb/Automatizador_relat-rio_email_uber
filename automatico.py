@@ -7,7 +7,7 @@ from datetime import datetime
 import unicodedata
 import re
 import os
-
+ 
 # =========================
 # FORMATAÇÃO BRL (R$) - COLUNA POR CABEÇALHO + COLUNA K
 # =========================
